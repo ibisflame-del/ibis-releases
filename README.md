@@ -1,6 +1,12 @@
+<p align="center"><img src="banner.png" alt="Ibis Tech: AI apps that run on your own PC. Private, free to try, proof on screen." width="760"></p>
+
 # Ibis Tech — releases
 
-Finished installers for Ibis Tech apps, and the small signed files their built-in updaters read.
+**Most AI apps want your files on their servers. I wanted the opposite.** Every Ibis app runs on your own PC, works with
+the AI model you pick, and shows its proof on screen. Meet the apps and watch the videos on the
+**[Ibis Tech page](https://github.com/ibisflame-del)**, then try them free on itch.io.
+
+This repository holds only the finished installers and the small signed files the apps' built-in updaters read.
 **There is no source code here.**
 
 ## Get the apps on itch.io
