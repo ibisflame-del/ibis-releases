@@ -1,10 +1,10 @@
 {
  "app": "Medusa",
- "version": "0.1.1",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/medusa-0.1.1/Medusa-Setup-0.1.1.exe",
- "sha256": "727aa0c30ed809d99b022c6bdef89683ae94c4c070cd113e65fd6b438dedcde6",
- "size": 52333320,
- "notes": "MEDUSA 0.1.1 - the first public release: a free creative suite that runs on your own PC, and updates itself (signed releases, checked fingerprint, automatic roll-back).",
+ "version": "0.1.2",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/medusa-0.1.2/Medusa-Setup-0.1.2.exe",
+ "sha256": "69b76ec55dc3fe8836cf5f88b403d9a6212d8c2f429661a3a5288ea2957a3fb1",
+ "size": 52356819,
+ "notes": "MEDUSA 0.1.2 - one-click setup of the AI parts (pictures, video, voices on your NVIDIA card) in Power. The licence changed: it now names the downloads the AI setup makes, where they come from and their licences.",
  "published": "2026-10-27",
- "signature": "5e8b6d02468398ad9fe1e4367d5e0bd1bd48fb6ec17b86d332d2814ede7a2d288150335cc76e501217ffa981e31f8a220c69a2753683b99914345fc2df3c3809"
+ "signature": "2bd8bc0722ca3ba18fa5e35cdf8abe20073bdb727c75b371afad3e1925dbf9d32847f28f2a7dfb68391588700f0f523145453e94a0dab0d5bb96588cc368a30c"
 }
