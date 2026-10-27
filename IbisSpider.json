@@ -1,0 +1,10 @@
+{
+ "app": "IbisSpider",
+ "version": "1.0.4",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.4/IbisSpider-Setup-1.0.4.exe",
+ "sha256": "55a02c08b0bb328955cc7aeda7855143b6426841d7482af8056403ef48a3480e",
+ "size": 157230415,
+ "notes": "Ibis Spider 1.0.4 - the first version that updates itself (signed releases, checked fingerprint, automatic roll-back); the header shows only measured values.",
+ "published": "2026-10-27",
+ "signature": "ecb6015bf21e834cc5a8bc81a503891c13f35ae9ab2c631b23281c31fa71b7306c87e6bee85287e41b432b1555d4715c99906a48784caf8125c12fc5fae69100"
+}
