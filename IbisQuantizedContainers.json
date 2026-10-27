@@ -1,0 +1,10 @@
+{
+ "app": "IbisQuantizedContainers",
+ "version": "0.4.4",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/iqc-0.4.4/IQC-Setup-0.4.4.exe",
+ "sha256": "438c289781fa76bd621adf13f3fc7128c7776cdcaed4a67ff38d3441da1d0dee",
+ "size": 30005442,
+ "notes": "IQC 0.4.4 - the first version that updates itself (signed releases, checked fingerprint, automatic roll-back), the CPU-limit report fix and Temp clean-up fixes.",
+ "published": "2026-10-27",
+ "signature": "d3cabfc9a97ea12b38232ac26906ba5eed04a9f3126cc27990435eebf4cb1df0393a1fa4074838a6a0a0b1e2ed036c12e43b5a21902125e4de108552ddd26403"
+}
