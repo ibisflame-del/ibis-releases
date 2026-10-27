@@ -17,6 +17,9 @@ Each app has its own page with screenshots, videos, install steps and the devlog
   → **https://ibisflame.itch.io/ibis-spider**
 - **Ibis Quantized Containers (IQC)**: run AI models and apps in locked boxes on Windows. Shrink them, race them, and keep your keys safe. Free.
   → **https://ibisflame.itch.io/ibis-quantized-containers**
+- **MEDUSA**: a free creative suite that runs on your own PC: video, sound, photos, lettering, and AI pictures, video and
+  voices with the models you choose.
+  → **https://ibisflame.itch.io/medusa**
 
 Follow the pages on itch.io to hear about new versions and new apps.
 
