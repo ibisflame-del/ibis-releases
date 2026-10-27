@@ -1,0 +1,10 @@
+{
+ "app": "Medusa",
+ "version": "0.1.1",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/medusa-0.1.1/Medusa-Setup-0.1.1.exe",
+ "sha256": "727aa0c30ed809d99b022c6bdef89683ae94c4c070cd113e65fd6b438dedcde6",
+ "size": 52333320,
+ "notes": "MEDUSA 0.1.1 - the first public release: a free creative suite that runs on your own PC, and updates itself (signed releases, checked fingerprint, automatic roll-back).",
+ "published": "2026-10-27",
+ "signature": "5e8b6d02468398ad9fe1e4367d5e0bd1bd48fb6ec17b86d332d2814ede7a2d288150335cc76e501217ffa981e31f8a220c69a2753683b99914345fc2df3c3809"
+}
