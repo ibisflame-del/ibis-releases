@@ -1,10 +1,10 @@
 {
  "app": "IbisSpider",
- "version": "1.0.4",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.4/IbisSpider-Setup-1.0.4.exe",
- "sha256": "55a02c08b0bb328955cc7aeda7855143b6426841d7482af8056403ef48a3480e",
- "size": 157230415,
- "notes": "Ibis Spider 1.0.4 - the first version that updates itself (signed releases, checked fingerprint, automatic roll-back); the header shows only measured values.",
- "published": "2026-10-27",
- "signature": "ecb6015bf21e834cc5a8bc81a503891c13f35ae9ab2c631b23281c31fa71b7306c87e6bee85287e41b432b1555d4715c99906a48784caf8125c12fc5fae69100"
+ "version": "1.0.5",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.5/IbisSpider-Setup-1.0.5.exe",
+ "sha256": "45eee07afa5001a2dcd28b8b9320ad597e3df06dd678ed4e840aac539008b39c",
+ "size": 157238681,
+ "notes": "Ibis Spider 1.0.5 - fixes from user reports: the meaning-search counter, Writing Studio facts after a Rewrite, repeated paragraphs, a Poem type, and Cinematic Prompts copy/save. The licence changed: it now says how update checks work and that donations are gifts.",
+ "published": "2026-10-28",
+ "signature": "fab50e6576103750f7f1a7835d2d123ff2936f8ef5e2fb954bb52ba3f7b4e6c502807b88e8dba47d6ffb4c6f5b2e56a5492e76c31db12f5cc777fc179169190b"
 }
