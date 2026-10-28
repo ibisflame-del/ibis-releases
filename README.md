@@ -51,7 +51,7 @@ The two public signing keys built into the apps:
 In PowerShell, in the folder where the installer is:
 
 ```powershell
-Get-FileHash .\IbisSpider-Setup-1.0.4.exe -Algorithm SHA256
+Get-FileHash .\IbisSpider-Setup-1.0.5.exe -Algorithm SHA256
 ```
 
 The hash must match the `sha256` in that app's release file and the fingerprint on its itch.io page.
