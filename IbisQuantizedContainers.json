@@ -1,10 +1,10 @@
 {
  "app": "IbisQuantizedContainers",
- "version": "0.4.4",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/iqc-0.4.4/IQC-Setup-0.4.4.exe",
- "sha256": "438c289781fa76bd621adf13f3fc7128c7776cdcaed4a67ff38d3441da1d0dee",
- "size": 30005442,
- "notes": "IQC 0.4.4 - the first version that updates itself (signed releases, checked fingerprint, automatic roll-back), the CPU-limit report fix and Temp clean-up fixes.",
- "published": "2026-10-27",
- "signature": "d3cabfc9a97ea12b38232ac26906ba5eed04a9f3126cc27990435eebf4cb1df0393a1fa4074838a6a0a0b1e2ed036c12e43b5a21902125e4de108552ddd26403"
+ "version": "0.4.5",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/iqc-0.4.5/IQC-Setup-0.4.5.exe",
+ "sha256": "8ed269a81363c9bb74c0605412b35864f226f5b11e89c3a27defbca5533f12be",
+ "size": 30006048,
+ "notes": "IQC 0.4.5 - updates now work however IQC was started (also from a PowerShell 7 window), and the setup wizard's licence page reads cleanly. The licence changed: it now says how update checks work and that donations are gifts.",
+ "published": "2026-10-28",
+ "signature": "5163ba473462b5fa1290142946872684c1e49e7e8292c022e371ff045f7c507c79cac90f9c73a3dee1c1958b341c8f312a78582b2876e073c69a61828160be04"
 }
