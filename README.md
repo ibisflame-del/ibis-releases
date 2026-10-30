@@ -20,6 +20,10 @@ Each app has its own page with screenshots, videos, install steps and the devlog
 - **MEDUSA**: a free creative suite that runs on your own PC: video, sound, photos, lettering, and AI pictures, video and
   voices with the models you choose.
   → **https://ibisflame.itch.io/medusa**
+- **IBIS-CODER**: a free AI coder you can watch: a real code editor and an AI coder on the model you pick.
+  → **https://ibisflame.itch.io/ibiscoder**
+- **Dr. Frankenstein's Reanimation Labs**: train an AI model on your own material, on your own PC. Free.
+  → **https://ibisflame.itch.io/dr-frankensteins-reanimation-labs**
 
 Follow the pages on itch.io to hear about new versions and new apps.
 
