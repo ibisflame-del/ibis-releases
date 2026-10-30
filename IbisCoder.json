@@ -1,0 +1,10 @@
+{
+ "app": "IbisCoder",
+ "version": "0.1.1",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/coder-0.1.1/IbisCoder-Setup-0.1.1.exe",
+ "sha256": "5bb175371022bf0e236330a13a1c3078d7a1313cbeef409b471807bd4ec3d12b",
+ "size": 37529944,
+ "notes": "IBIS-CODER 0.1.1 — the first public release: a free AI coder you can watch, on your own PC. A real code editor, an AI coder on the model you pick (Ollama or a cloud service), a test robot, your own coding books, and it updates itself from signed releases.",
+ "published": "2026-10-30",
+ "signature": "f0aab79d20dcf5d7f03ba0329c6e7e554923823bd5fccf465124dc9070524d46f87334913cf912a70a62ae44bce4b05ca22a720f751c516e1bd01d63654e2d02"
+}
