@@ -1,0 +1,10 @@
+{
+ "app": "DrFrankenstein",
+ "version": "0.1.2",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/lab-0.1.2/DrFrankenstein-Setup-0.1.2.exe",
+ "sha256": "8505eda06628cbcc3198766eba25bccfaae1eb9701bf0427680c78da10b0bfae",
+ "size": 34417724,
+ "notes": "Dr. Frankenstein's Reanimation Labs 0.1.2 — the first public release: a free lab that teaches an AI model YOUR material on your own PC. The Dataset Forge, a planner that does the memory maths for your card, one-button LoRA/QLoRA training with before/after proof, export to Ollama and IQC, and it updates itself from signed releases.",
+ "published": "2026-10-30",
+ "signature": "c314d3e2016818997fce9d6a796425b73508338a22518bf400b2fd98718c7ec453715bc7cf25fdc8fdb5538cc3ba8f609a6ce64c4d2d8d2e5fcb22bdfa1b8202"
+}
