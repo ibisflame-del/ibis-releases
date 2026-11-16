@@ -1,10 +1,10 @@
 {
  "app": "IbisSpider",
- "version": "1.0.7",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.7/IbisSpider-Setup-1.0.7.exe",
- "sha256": "e97918c06e98cf8dab71e63ffb4517c345b14ecb20b367e10ed609004914f621",
- "size": 157535689,
- "notes": "Ibis Spider 1.0.7 — the Writing Studio sees your whole story bible; each book learns from its own genre shelf; the critic judges against real books; Content setting, Words to avoid, copyright page; fixes. Same file as on itch.io.",
- "published": "2026-11-06",
- "signature": "7f0739229a5a71988fddce2b85a5ca85200079b9049b22d4fd65962aa4e00dea7b3462bb5176c31c72939baffa0aa278edf9985f3007487738540cd564b31d02"
+ "version": "1.0.9",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.9/IbisSpider-Setup-1.0.9.exe",
+ "sha256": "4556c9cf1dc9d068968ee343e91bbb45b61fccf3d2d64272a28df1818e9599cb",
+ "size": 158796057,
+ "notes": "Ibis Spider 1.0.9 — books and stories are judged by a measured prose meter (the AI critics failed a fair exam); Fix flagged and Fix the part I picked; ads, songs, comics, scripts, poems, cards, contracts and how-tos pass on counted checks you can see (rhyme counted by sound); a folder of books becomes one item per book; adding a folder no longer closes Spider; open any passage in its book; fixes. Same file as on itch.io.",
+ "published": "2026-11-16",
+ "signature": "b53a0283512bc18c7f4f491d004e1e6c7c0ad65f22832b12e45f72ffb83744a8e9f3db352ec39312ae4b9b4d8f681912bf9a6c4e49893c18beb7e4ac6760f40c"
 }
