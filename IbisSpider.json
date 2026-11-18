@@ -1,10 +1,10 @@
 {
  "app": "IbisSpider",
- "version": "1.0.9",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.9/IbisSpider-Setup-1.0.9.exe",
- "sha256": "4556c9cf1dc9d068968ee343e91bbb45b61fccf3d2d64272a28df1818e9599cb",
- "size": 158796057,
- "notes": "Ibis Spider 1.0.9 — books and stories are judged by a measured prose meter (the AI critics failed a fair exam); Fix flagged and Fix the part I picked; ads, songs, comics, scripts, poems, cards, contracts and how-tos pass on counted checks you can see (rhyme counted by sound); a folder of books becomes one item per book; adding a folder no longer closes Spider; open any passage in its book; fixes. Same file as on itch.io.",
- "published": "2026-11-16",
- "signature": "b53a0283512bc18c7f4f491d004e1e6c7c0ad65f22832b12e45f72ffb83744a8e9f3db352ec39312ae4b9b4d8f681912bf9a6c4e49893c18beb7e4ac6760f40c"
+ "version": "1.0.10",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/spider-1.0.10/IbisSpider-Setup-1.0.10.exe",
+ "sha256": "286f837d0f58336425abb5f98bbf8ca51ec88289e7e0fb96bfd256e01863d256",
+ "size": 163695656,
+ "notes": "Ibis Spider 1.0.10 — 🗜 Compile memory: Spider proves each book is fully in its memory (every passage, a checksum, and a search for its rarest words), then lets go of the copy it stored; your own files are never touched, and a book that doesn't pass keeps its file and says why; 📖 Read again with today's reader; locked PDFs open, maths letters and very long books read properly; Writing Studio: facts a scene repeats stay tied to it; fixes. Same file as on itch.io.",
+ "published": "2026-11-17",
+ "signature": "dba81af9db208e10381a6c2b6f144d6fb49a5e3d78c10b97e0155b0f9421f633dda431a710fa8bc71a00a6a1263740e2b9ba6c63a503c775af144be973462a08"
 }
