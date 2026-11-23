@@ -1,10 +1,10 @@
 {
  "app": "IbisQuantizedContainers",
- "version": "0.4.5",
- "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/iqc-0.4.5/IQC-Setup-0.4.5.exe",
- "sha256": "8ed269a81363c9bb74c0605412b35864f226f5b11e89c3a27defbca5533f12be",
- "size": 30006048,
- "notes": "IQC 0.4.5 - updates now work however IQC was started (also from a PowerShell 7 window), and the setup wizard's licence page reads cleanly. The licence changed: it now says how update checks work and that donations are gifts.",
- "published": "2026-10-28",
- "signature": "5163ba473462b5fa1290142946872684c1e49e7e8292c022e371ff045f7c507c79cac90f9c73a3dee1c1958b341c8f312a78582b2876e073c69a61828160be04"
+ "version": "0.5.0",
+ "installer_url": "https://github.com/ibisflame-del/ibis-releases/releases/download/iqc-0.5.0/IQC-Setup-0.5.0.exe",
+ "sha256": "ae764dc0763dd99fe6926dc0eb6d2b8f96f626b270bf1cd14e25af83ef75e235",
+ "size": 30482863,
+ "notes": "IQC 0.5.0 - your programs: MY PC sorts every installed program (read-only), measures the space they could give back, shrinks one program at a time with Windows' own lossless compression (undo any time), and runs a copy in a box - even a desktop program with its window. Also new: the strong wall, Ibis with her own memory, her coder, and web search through your own engine. The licence changed: a new section, YOUR PROGRAMS, and the other connections IQC makes (only when you ask) - please read it in the installer.",
+ "published": "2026-11-23",
+ "signature": "e1ad53799a1dd3a9054362cc7ee6aecf19c339586c260f1c1c2b958da8ed22716dad04bc846393eeba144e51e57628d28b89b53a88cda698b2d56d37e9a4d105"
 }
